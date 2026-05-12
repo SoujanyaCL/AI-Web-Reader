@@ -1,4 +1,4 @@
-  <h1>🧠 AI Web Reader Chatbot Extension</h1>
+  <!-- <h1>🧠 AI Web Reader Chatbot Extension</h1>
   <p>
   A Chrome Extension that scrapes webpage content and uses <strong>Google Gemini 2.0 Flash</strong> via <strong>LangChain</strong> to intelligently answer user questions based on the current page content.
 </p>
@@ -119,4 +119,21 @@ USER_AGENT=ai-web-reader-bot
 </p>
   <hr>
 </body>
-</html>
+</html> -->
+
+
+# 🧠 AI Web Reader Chatbot Extension
+
+A Chrome Extension that scrapes webpage content and uses Google Gemini AI with LangChain to answer user questions based on the current webpage content.
+
+It supports webpage parsing using BeautifulSoup, WebBaseLoader, and SeleniumURLLoader for both static and dynamic websites.
+
+---
+
+## 📸 Preview
+
+| Screenshot 1 | Screenshot 2 |
+|-------------|-------------|
+| ![](assets/photo1.png) | ![](assets/photo2.png) |
+
+---
